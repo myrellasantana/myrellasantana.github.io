@@ -104,7 +104,7 @@ img {
 }
 /*===INTRO===*/
 .intro-bg {
-  background-color: #dfcd2d ;
+  background-color: #fdd10f;
   height: 620px;
 
 
@@ -140,10 +140,16 @@ img {
 .intro-info h2 {
   font-size: 16px;
   text-transform: uppercase;
+  text-align: center;
+  width: 500px;
+  margin-right: 160px;
+  margin-left: 70px;
 }
 
 .intro-img {
-  width: 115%;
+  width: 415px;
+  height: 200px;
+  margin-top: 90px;
 
 }
 
@@ -151,7 +157,7 @@ img {
 
 /*===PORTFOLIO===*/
 .portfolio-bg {
-  background-color: #FFF5E8;
+  background-color: #f5ae07;
 
 
 }
@@ -416,6 +422,23 @@ img {
 }
 .intro-info {
   text-align: center;
+
+} 
+
+
+.intro-info h1 {
+  font-size: 50px;
+
+}
+
+
+.intro-info h2 {
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
+  width: 350px;
+  margin-right: 0px;
+  margin-left: 20px;
 }
 }
 
