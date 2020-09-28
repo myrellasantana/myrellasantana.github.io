@@ -177,7 +177,7 @@ img {
 .portfolio h2 {
   text-align: center;
   margin-bottom: 20px;
-  color: #FF564F;
+  color: white;
 }
 
 .sobre h2 {
@@ -258,6 +258,7 @@ img {
   text-align: center;
   color: white;
   font-size: 35px;
+  margin-right: -3px;
 }
 
 .contato .icons {
